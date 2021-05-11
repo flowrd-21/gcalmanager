@@ -1,0 +1,2 @@
+# gcalmanager
+Smart calendar manager
